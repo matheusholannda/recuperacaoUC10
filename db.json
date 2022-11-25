@@ -1,0 +1,23 @@
+{
+  "users": [
+    {},
+    {
+      "id": 1,
+      "nome": "Matheus",
+      "email": "matheus@email.com",
+      "senha": "senha123"
+    },
+    {
+      "email": "felipe@email.com",
+      "password": "$2a$10$Fyv0Hh1MlTYdyNYJVeQNt.6M4/wkVIiFb./e2I7dh2GtuqwEH/HK6",
+      "nome": "Felipe",
+      "id": 2
+    },
+    {
+      "email": "fabricio@email.com",
+      "password": "$2a$10$7cCNKyjIw8iRKVUwPpeUBuPRJUv4UQ.hiKpL7HOfqLW.hRWPuUmeq",
+      "nome": "Fabricio",
+      "id": 3
+    }
+  ]
+}
